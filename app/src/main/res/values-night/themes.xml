@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PMDMTarea3" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme here. -->
+        <item name="windowActionBarOverlay">false</item>
+        <item name="windowNoTitle">false</item>
+
+        <!-- Splashscreen -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/pikachu</item>
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/blue</item>
+        <item name="android:windowSplashScreenBackground">@color/blue</item>
+    </style>
+</resources>

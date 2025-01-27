@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pokémon APP</string>
+    <string name="user">Email</string>
+    <string name="pass">Contraseña</string>
+    <string name="access">Acceder</string>
+    <string name="pikachu_logo">Pikachu Logo</string>
+    <string name="settings">Ajustes</string>
+    <string name="language">Idioma</string>
+    <string name="register">Registrarse</string>
+    <string name="already_user">Ya tengo una cuenta</string>
+    <string name="no_user">No tengo una cuenta aún</string>
+    <string name="register_label">Registro</string>
+    <string name="login_label">Login</string>
+    <string name="user_pokemon">Mis pokémon</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="pokemon_detail">Detalles del pokémon</string>
+    <string name="delete_pokemon">Eliminar mis pokémon</string>
+    <string name="about">Acerca de...</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="author">Beatriz Conde Cerón</string>
+    <string name="version">Versión 1.0.0</string>
+    <string name="change_language">Cambiar idioma</string>
+    <string name="logout_confirmation">¿Estás seguro de que quieres cerrar tu sesión de usuario?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="english">Inglés</string>
+    <string name="spanish">Español</string>
+    <string name="authentication_failed">Error de autenticación</string>
+    <string name="pokemon_added">¡Pokémon capturado!</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709397547166",
+    "project_id": "pmdm-tarea3-5e85e",
+    "storage_bucket": "pmdm-tarea3-5e85e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709397547166:android:fe96211f9067a5e309d38f",
+        "android_client_info": {
+          "package_name": "condeceron.beatriz.pmdmtarea3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2tbqUG8EWnRaKHXOwqVCoNPqsHkAv1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

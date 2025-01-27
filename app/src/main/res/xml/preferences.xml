@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:id="@+id/language_preference"
+        android:key="language"
+        android:title="@string/language"
+        android:icon="@drawable/language"
+        android:layout="@layout/preference_arrow"/>
+
+    <SwitchPreferenceCompat
+        android:id="@+id/delete_pokemon_preference"
+        android:key="delete_pokemon"
+        android:title="@string/delete_pokemon"
+        android:icon="@drawable/close"/>
+
+    <Preference
+        android:id="@+id/about"
+        android:key="about"
+        android:title="@string/about"
+        android:icon="@drawable/info"
+        android:layout="@layout/preference_arrow"/>
+
+    <Preference
+        android:id="@+id/logout"
+        android:key="logout"
+        android:title="@string/logout"
+        android:icon="@drawable/logout"
+        android:layout="@layout/preference_arrow"/>
+
+</androidx.preference.PreferenceScreen>

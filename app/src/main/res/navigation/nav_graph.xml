@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/userPokemonFragment">
+
+    <fragment
+        android:id="@+id/pokedexFragment"
+        android:name="condeceron.beatriz.pmdmtarea3.PokedexFragment"
+        android:label="@string/pokedex" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="condeceron.beatriz.pmdmtarea3.SettingsFragment"
+        android:label="@string/settings" />
+
+    <fragment
+        android:id="@+id/userPokemonFragment"
+        android:name="condeceron.beatriz.pmdmtarea3.UserPokemonFragment"
+        android:label="@string/user_pokemon" />
+
+    <fragment
+        android:id="@+id/pokemonDetailFragment"
+        android:name="condeceron.beatriz.pmdmtarea3.PokemonDetailFragment"
+        android:label="@string/pokemon_detail" />
+
+</navigation>
